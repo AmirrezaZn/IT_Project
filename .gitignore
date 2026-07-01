@@ -1,0 +1,13 @@
+# Pics
+*.png
+*.jpg
+
+# Word files
+~$*
+*.docx
+*.tmp
+
+# OS
+.DS_Store
+thumb.db
+
