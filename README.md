@@ -9,7 +9,7 @@
 ## ساختار پروژه
 
 ```text
-Final Report
+Final Report.pdf
 
 📁 MS Project/
 │   └── فایل پروژه Microsoft Project (.mpp)
